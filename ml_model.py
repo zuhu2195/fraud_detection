@@ -11,6 +11,6 @@ def model2():
 def model3():
     print("Adding code for model 3")
 
-print("print model 2 is performing the st")
+print("print model 2 is performing the best out of all")
 
 print("Added some difference here")
